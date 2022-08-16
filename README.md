@@ -1,2 +1,1 @@
-# powerbi
-PowerBI Örnekleri
+# Microsoft PowerBI Örnekleri
